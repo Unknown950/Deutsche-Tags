@@ -119,6 +119,9 @@
 [Verschwörungen](https://steemit.com/trending/verschwörungen)<br>
 [Vorstellung](https://steemit.com/trending/vorstellung)<br>
 
+---
+<br>
+
 
 Wer Vorschläge für neue Tags hat kann mich [direkt](https://steemit.chat/direct/andalucia) auf steemit.chat oder auf [discord](https://discord.gg/bDVtD9s) errreichen. 
 
