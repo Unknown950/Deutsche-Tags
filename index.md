@@ -4,6 +4,7 @@
 
 [Abenteuer](https://steemit.com/trending/abenteuer)<br>
 [Abnehmen](https://steemit.com/trending/abnehmen)<br>
+[Aegyptologie](https://steemit.com/trending/aegyptologie)<br>
 [Autismus](https://steemit.com/trending/autismus)<br>
 
 ### B
@@ -115,7 +116,7 @@
 ### V
 
 [Vegan](https://steemit.com/trending/vegan) (englisch und deutsch gemischt)<br>
-[Vegetarsich](https://steemit.com/trending/vegetarisch)<br>
+[Vegetarsisch](https://steemit.com/trending/vegetarisch)<br>
 [Verschwörungen](https://steemit.com/trending/verschwörungen)<br>
 [Vorstellung](https://steemit.com/trending/vorstellung)<br>
 
